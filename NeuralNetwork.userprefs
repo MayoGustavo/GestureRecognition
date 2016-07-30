@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Redes\assets\Scripts\PlayerSync.cs">
+    <Files>
+      <File FileName="..\Redes\assets\Scripts\PlayerSync.cs" Line="127" Column="59" />
+      <File FileName="..\Redes\assets\Scripts\PlayerInput.cs" Line="241" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
